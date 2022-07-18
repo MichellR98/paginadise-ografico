@@ -1,0 +1,25 @@
+body{
+
+    background: url(../imagenes/imagen1.avif);
+    background-size:contain
+    
+
+}
+
+.letra2{
+
+
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.barra{
+
+    background-color: rgb(136, 247, 247) !important;
+    color: black;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif !important;
+
+}
